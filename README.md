@@ -130,7 +130,7 @@ The results highlighted the significant impact of dataset and pipeline variation
 
 ## Acknowledgments
 
-I completed this project under the guidance of `<a href="https://eggerbernhard.ch/" style="color: blue; text-decoration: none;">`**Prof. Dr. Bernhard Egger**`</a>` and `<a href="https://mweiherer.github.io/" style="color: blue; text-decoration: none;">`**Maximilian Weiherer**`</a>`.
+I completed this project under the guidance of <a href="https://eggerbernhard.ch/" style="color: blue; text-decoration: none;">**Prof. Dr. Bernhard Egger**</a> and <a href="https://mweiherer.github.io/" style="color: blue; text-decoration: none;">**Maximilian Weiherer**</a>.
 
 ## References
 
