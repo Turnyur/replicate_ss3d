@@ -43,9 +43,9 @@ Additionally:
   - I generated RGB images, segmentation masks, and camera projection parameters for each view.
   - To handle the large output files efficiently, I serialized all the data into the **HDF5 format**.
 
-    <img src="./assets/synth/synth_pre_v9_val_inp_rgb.png" alt="Custom Renderer 1" style="width: auto; height: 150px;">
+    <img src="./assets/synth/synth_pre_v9_val_inp_rgb.png" alt="Custom Renderer 1" style="width: 500px; height: auto;">
 
-    <img src="./assets/synth/synth_pre_v9_val_inp_rgb_2.png" alt="Custom Renderer 1" style="width: auto; height: 150px;">
+    <img src="./assets/synth/synth_pre_v9_val_inp_rgb_2.png" alt="Custom Renderer 1" style="width: 500px; height: auto;">
 
   <div style="display: grid; grid-template-columns: repeat(3, 200px); gap: 10px;">
 
